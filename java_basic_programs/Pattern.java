@@ -6,8 +6,6 @@ public class Pattern{
 
 class P{
     void J_pattern(){
-        for(){
-            
-        }
+        
     }
 }
