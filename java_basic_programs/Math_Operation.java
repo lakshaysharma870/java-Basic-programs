@@ -6,7 +6,8 @@ public class Math_Operation{
         //  c.sum();
         //  c.divide();
         //  c.mult();
-        c.table();
+        //c.table();
+        //c.err();
     }
 }
 class cal{
@@ -42,5 +43,10 @@ class cal{
         for(int i=1 ;i<=10;i++){
             System.out.println(n+"*"+i+":"+n*i);
         }
+    }
+
+    void err(){
+        int x;
+        System.out.println(x);
     }
 }
